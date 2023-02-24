@@ -2,7 +2,7 @@
 
 ## In this project with the data I downloaded from kaggle I tried perform  image segmentation. I used U-net for segmentation. 
 
-Briefly about the data I will be working on: !(https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery)
+Briefly about the data I will be working on: (https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery)
 
 The dataset consists of aerial imagery of Dubai obtained by MBRSC satellites and annotated with pixel-wise semantic segmentation in 6 classes. The total volume of the dataset is 72 images grouped into 6 larger tiles. The classes are:
 
