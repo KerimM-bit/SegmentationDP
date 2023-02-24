@@ -1,4 +1,4 @@
-# SegmentationDP
+# Image Segmentation of aerial images of Dubai  with deep learning (tensorflow)
 
 ## In this project with the data I downloaded from kaggle I tried perform  image segmentation. I used U-net for segmentation. 
 
